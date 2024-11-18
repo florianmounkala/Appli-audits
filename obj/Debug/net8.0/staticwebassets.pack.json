@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\Assets\\chrome-48.png",
+      "PackagePath": "staticwebassets\\Assets\\chrome-48.png"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\Assets\\edge-48.png",
+      "PackagePath": "staticwebassets\\Assets\\edge-48.png"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\Connection.html",
+      "PackagePath": "staticwebassets\\Connection.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\Connection.js",
+      "PackagePath": "staticwebassets\\Connection.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\DatableProperties.js",
+      "PackagePath": "staticwebassets\\DatableProperties.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\En developpement\\Inscription.html",
+      "PackagePath": "staticwebassets\\En developpement\\Inscription.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\En developpement\\PageUsers.html",
+      "PackagePath": "staticwebassets\\En developpement\\PageUsers.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\En developpement\\PageUsers.js",
+      "PackagePath": "staticwebassets\\En developpement\\PageUsers.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\En developpement\\VoirUnAudit.html",
+      "PackagePath": "staticwebassets\\En developpement\\VoirUnAudit.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\En developpement\\attachments.html",
+      "PackagePath": "staticwebassets\\En developpement\\attachments.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\En developpement\\creationAudit.html",
+      "PackagePath": "staticwebassets\\En developpement\\creationAudit.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\Inscription.html",
+      "PackagePath": "staticwebassets\\Inscription.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\Inscription.js",
+      "PackagePath": "staticwebassets\\Inscription.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\ListeAudit.html",
+      "PackagePath": "staticwebassets\\ListeAudit.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\ListeAudit.js",
+      "PackagePath": "staticwebassets\\ListeAudit.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\ListeClient.html",
+      "PackagePath": "staticwebassets\\ListeClient.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\ListeClient.js",
+      "PackagePath": "staticwebassets\\ListeClient.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\Liste_Question.js",
+      "PackagePath": "staticwebassets\\Liste_Question.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\RepondreAudit.js",
+      "PackagePath": "staticwebassets\\RepondreAudit.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\Repondre_Audit.html",
+      "PackagePath": "staticwebassets\\Repondre_Audit.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\V1repaudit.js",
+      "PackagePath": "staticwebassets\\V1repaudit.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\VisualisationReponses.html",
+      "PackagePath": "staticwebassets\\VisualisationReponses.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\VisualisationReponses.js",
+      "PackagePath": "staticwebassets\\VisualisationReponses.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\css\\common.css",
+      "PackagePath": "staticwebassets\\css\\common.css"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\css\\page_inscription_connection.css",
+      "PackagePath": "staticwebassets\\css\\page_inscription_connection.css"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\css\\tableau_question.css",
+      "PackagePath": "staticwebassets\\css\\tableau_question.css"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\css\\tableau_reponse.css",
+      "PackagePath": "staticwebassets\\css\\tableau_reponse.css"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\header.js",
+      "PackagePath": "staticwebassets\\header.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\liste_Question.html",
+      "PackagePath": "staticwebassets\\liste_Question.html"
+    },
+    {
+      "Id": "C:\\Users\\flomr\\Documents\\Project soleva\\anonymisé public\\Web.DotNet\\wwwroot\\speechtotext.html",
+      "PackagePath": "staticwebassets\\speechtotext.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.APIcli.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.APIcli.props",
+      "PackagePath": "build\\APIcli.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.APIcli.props",
+      "PackagePath": "buildMultiTargeting\\APIcli.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.APIcli.props",
+      "PackagePath": "buildTransitive\\APIcli.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

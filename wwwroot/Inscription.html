@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Inscription</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <h1>Inscription</h1>
+    <p>Merci de vous inscrire pour acceder au différentes services proposées</p>
+    <p id="error-message" style="display: none; color: red">
+      Email déja utilisé ! Connectez vous ou changez de mail.
+    </p>
+
+    <form id="Inscription-form">
+      <!-- <label for="pseudo">Pseudo :</label>
+        <input type="text" id="pseudo" name="pseudo" required><br><br> -->
+
+      <label for="nom">Nom :</label>
+      <input type="text" id="nom" name="nom" required /><br /><br />
+
+      <label for="prenom">Prénom :</label>
+      <input type="text" id="prenom" name="prenom" required /><br /><br />
+
+      <label for="phone">Téléphone :</label>
+      <input type="tel" id="phone" name="phone" required /><br /><br />
+
+      <label for="email">Email :</label>
+      <input type="email" id="email" name="email" required /><br /><br />
+
+      <label for="motdepasse">Mot de passe :</label>
+      <input
+        type="password"
+        id="motdepasse"
+        name="motdepasse"
+        required
+      /><br /><br />
+
+      <input type="submit" value="S'inscrire" />
+    </form>
+    <button onclick="window.location.href='Connection.html'">
+      Déja incrit ? Connectez vous!
+    </button>
+    <script src="Inscription.js"></script>
+  </body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page de Connexion</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <p id="error-message" style="display: none; color: red">
+      Informations incorrectes
+    </p>
+
+    <div id="form-container">
+      <form id="connexion-form">
+        <label for="username">Email:</label><br />
+        <input type="text" id="username" name="username" /><br />
+        <label for="password">Mot de passe:</label><br />
+        <input type="password" id="password" name="password" /><br />
+        <button type="submit">Connexion</button>
+      </form>
+    </div>
+    <button onclick="window.location.href='Inscription.html'">
+      Pas encore inscrit ? Inscrivez vous!
+    </button>
+    <button onclick="window.location.href='mdpforgot.html'">
+      Mot de passe oublié ?
+    </button>
+    <script src="Connection.js"></script>
+  </body>
+  <footer></footer>
+</html>

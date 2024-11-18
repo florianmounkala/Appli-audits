@@ -1,0 +1,35 @@
+body {
+  padding: 10px;
+}
+
+div.formContainer > input[type="text"] {
+  width: 70%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.select2,
+.select2-container,
+.select2-hidden-accessible {
+  width: 50% !important;
+}
+
+.select2-container .select2-selection--single {
+  width: auto !important;
+}
+
+.select2-container--default
+  .select2-selection--single
+  .select2-selection__rendered {
+  white-space: nowrap;
+  width: auto !important;
+}
+
+div.dtButtons {
+  position: relative;
+  float: right;
+}

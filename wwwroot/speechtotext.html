@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Speech-to-text</title>
+  </head>
+  <body>
+    <div>
+      <p>speech to text</p>
+      <button id="startButton">Demarrer l'enregistrement</button>
+      <div id="output" contenteditable="true"></div>
+      <script>
+        const startButton = document.getElementById("startButton");
+        const outputDiv = document.getElementById("output");
+        const recognition = new (window.SpeechRecognition ||
+          window.webkitSpeechRecognition ||
+          window.mozSpeechRecognition ||
+          window.msSpeechRecognition)();
+        recognition.lang = "fr-FR";
+
+        recognition.onstart = () => {
+          startButton.textContent = "Enregistrement en cours...";
+        };
+
+        recognition.onresult = (event) => {
+          const transcript = event.results[0][0].transcript;
+
+          console.log(transcript);
+          //outputDiv.textContent = transcript; //ne fonctionne qu'avec les div
+          outputDiv.setAttribute("value", transcript);
+        };
+
+        recognition.onend = () => {
+          startButton.textContent = "Demarrer l'enregistrement";
+        };
+
+        startButton.addEventListener("click", () => {
+          recognition.start();
+        });
+      </script>
+    </div>
+  </body>
+</html>

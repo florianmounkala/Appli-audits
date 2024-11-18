@@ -1,0 +1,73 @@
+body {
+    background-image: url('images/piece-sombre-vide-fond-science-fiction-futuriste-moderne.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#form-container {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+label {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+button {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block; /* Make the buttons stack vertically */
+    font-size: 16px;
+    margin: 4px auto; /* Center the button horizontally */
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#top-buttons {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+#top-buttons button {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+#top-buttons button:hover {
+    background-color: #45a049;
+}
+
+#top-buttons img {
+    height: 48px;
+    width: 48px;
+    vertical-align: middle;
+}
